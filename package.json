@@ -2,7 +2,7 @@
   "name": "bitcore-nodejs-dash",
   "description": "Full node with extended capabilities using Bitcore and Dash Core",
   "author": "Viest <main@service.viest.me>",
-  "version": "3.0.61",
+  "version": "3.0.62",
   "main": "./index.js",
   "repository": "https://github.com/viest/bitcore-nodejs-dash.git",
   "homepage": "https://github.com/viest/bitcore-nodejs-dash",
