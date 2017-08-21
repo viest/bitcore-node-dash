@@ -27,7 +27,7 @@
     }
   ],
   "bin": {
-    "bitcore-node-dash": "./bin/bitcore-node-dash"
+    "bitcore-nodejs-dash": "./bin/bitcore-nodejs-dash"
   },
   "scripts": {
     "preinstall": "./scripts/download",
