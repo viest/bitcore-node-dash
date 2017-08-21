@@ -6,7 +6,7 @@ A Dash full node for building applications and services with Node.js. A node is 
 ## Install
 
 ```bash
-npm install -g bitcore-node-dash
+npm install -g bitcore-nodejs-dash
 ```
 
 ## Prerequisites
@@ -22,11 +22,11 @@ npm install -g bitcore-node-dash
 Bitcore includes a Command Line Interface (CLI) for managing, configuring and interfacing with your Bitcore Node.
 
 ```bash
-bitcore-node-dash create -d <dash-data-dir> mynode
+bitcore-nodejs-dash create -d <dash-data-dir> mynode
 cd mynode
-bitcore-node-dash install <service>
-bitcore-node-dash install https://github.com/yourname/helloworld
-bitcore-node-dash start
+bitcore-nodejs-dash install <service>
+bitcore-nodejs-dash install https://github.com/yourname/helloworld
+bitcore-nodejs-dash start
 ```
 
 This will create a directory with configuration files for your node and install the necessary dependencies.
